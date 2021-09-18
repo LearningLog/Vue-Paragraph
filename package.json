@@ -1,6 +1,6 @@
 {
   "name": "vue-paragraph",
-  "version": "1.0.1",
+  "version": "0.1.2",
   "description": "Vue 实现在文本溢出后浮现Tooltip、及文本展开收起效果；文本超出后，显示Tooltip，文本未超出，不显示Tooltip。",
   "main": "index.js",
   "scripts": {
