@@ -2,7 +2,9 @@
 Vue 实现在文本溢出后浮现Tooltip、及文本展开收起效果
 
 示例：
+Vue 实现在文本溢出后浮现Tooltip、及文本展开收起效果；文本超出后，显示Tooltip，文本未超出，不显示Tooltip。
 
+文本展开收起,文本溢出Tooltip,Vue,ElementUI,Tooltip
 1. expandable模式(默认) - 文本展开收起效果：
 ```vue
 <Paragraph

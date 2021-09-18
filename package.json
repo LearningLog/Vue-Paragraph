@@ -1,0 +1,26 @@
+{
+  "name": "vue-paragraph",
+  "version": "1.0.0",
+  "description": "Vue 实现在文本溢出后浮现Tooltip、及文本展开收起效果；文本超出后，显示Tooltip，文本未超出，不显示Tooltip。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearningLog/Vue-Paragraph.git"
+  },
+  "keywords": [
+    "文本展开收起",
+    "文本溢出Tooltip",
+    "Vue",
+    "ElementUI",
+    "Tooltip"
+  ],
+  "author": "yanhuakang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LearningLog/Vue-Paragraph/issues"
+  },
+  "homepage": "https://github.com/LearningLog/Vue-Paragraph#readme"
+}
